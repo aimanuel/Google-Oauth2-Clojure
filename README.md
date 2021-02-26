@@ -1,6 +1,6 @@
 # Google Oauth2 - Clojure
 
-This is based on https://github.com/SparkFund/google-apps-clj see Readme_Clojure_Connect_to_Google_APIs.pdf for instruction with screenshot
+This is based on https://github.com/SparkFund/google-apps-clj see "Clojure_Connect_to_Google_APIs.pdf" for instruction with screenshot
 
 	1. Follow the instruction from sparkFund
 	2. Create credential from Google API Console https://console.developers.google.com/?pli=1 
